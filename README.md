@@ -32,7 +32,7 @@ Contributions and forks are very welcome!
 
 In your pull request, feel free to add your line in the contributors section below:
 
-### Contributors
+### Contributors:
 
 * [jod.li](https://github.com/jod-li/)
 
